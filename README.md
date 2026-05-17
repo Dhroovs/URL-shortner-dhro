@@ -10,7 +10,7 @@ A modern fullstack boilerplate powered by:
 - 🔐 **Authentication**: Google Login + JWT  
 - 🌐 **Backend**: Node.js + Express + MongoDB  
 
-## ⚙️ Full Setup Instructions
+## ⚙️ Full Setup Instructions:
 
 ### 🔹 Step 1: Create a Git Repository
 
